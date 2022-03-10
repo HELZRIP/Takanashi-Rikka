@@ -47,6 +47,8 @@ You can edit owner and other in `'./settings/config.json'`
 ```
 # 📍Note
 Jika kamu ada masalah dalam membuat bot nya, bisa tanya ke saya di [Telegram](https://t.me/erosei_1)
+
+# Thanks for my sensei
 Terima kasih buat sensei udh dipublik in 
 
 # Thanks To
