@@ -15,7 +15,7 @@
 
 Click the deploy icon below !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sophiashirashaki/Takanashi-rikka)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HELZRIP/Takanashi-rikka)
 
 ```bash
  > heroku/nodejs
@@ -47,6 +47,7 @@ You can edit owner and other in `'./settings/config.json'`
 ```
 # 📍Note
 Jika kamu ada masalah dalam membuat bot nya, bisa tanya ke saya di [Telegram](https://t.me/erosei_1)
+Terima kasih buat sensei udh dipublik in 
 
 # Thanks To
 - Sophia (Owner + Developer)
